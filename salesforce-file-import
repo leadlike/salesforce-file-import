@@ -1,7 +1,0 @@
-cd C:\Users\YourName\Downloads\salesforce-file-import
-git init
-git add .
-git commit -m "Initial commit: PowerShell uploader"
-git branch -M main
-git remote add origin https://github.com/leadlike/salesforce-file-import.git
-git push -u origin main
